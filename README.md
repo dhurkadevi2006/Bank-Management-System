@@ -1,6 +1,5 @@
 # Bank-Management-System
 Java Console Based Bank Management System
-# Bank Management System (Java)
 
 ## Project Description
 
